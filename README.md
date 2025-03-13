@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Leyao Sun, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 ### ✔️ I'm currently learning
 - Kotlin (android development)
