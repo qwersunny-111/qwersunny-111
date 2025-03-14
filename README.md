@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 💡 Goals for 2020:
+- Finish my first app on android and publish it on play store
+- Learn the basics of JavaScript, TypeScript
+- Become skilled in Java, kotlin
+- Grow as a person
 -->
 
 ## Hi there 👋
@@ -19,23 +25,16 @@ Here are some ideas to get you started:
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-Welcome to my GitHub! I'm Leyao Sun, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Leyao Sun, a master's student at the School of Automation, Beijing Institute of Technology. My primary research focus is on image stitching.
 
-### ✔️ I'm currently learning
-- Kotlin (android development)
-- Java (desktop apps)
+### ✔️ I'm currently studying
+- Surround view stitching for tractor-trailer
+
+### ⚡ Relevant achievement
+- UDSV: Unsupervised Deep Stitching for Tractor-Trailer Surround View [Paper]
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
-### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person
-
-### ⚡ Relevant achievement
-- Enter the Francisco José de Caldas district university at a very low cost
-
-### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, games, designer.
+### 📫 How to reach me:
+- Feel free to contact me at sunleyao2020@163.com.
