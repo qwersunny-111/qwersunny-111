@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm Leyao Sun, a master's student at the School of Automat
 - UDSV: Unsupervised Deep Stitching for Tractor-Trailer Surround View [Paper]
 
 ### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+- I like walking and living !!!
 
 ### 📫 How to reach me:
 - Feel free to contact me at sunleyao2020@163.com.
